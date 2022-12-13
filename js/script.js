@@ -34,4 +34,3 @@ wrapper.document.prepend(div); // добавить в конец
 // если вызываем один раз 
 //document.querySelector('.wrapper').append(div);
 // если элемент нужно получить мног раз нужно обьявить через переменную
-
